@@ -1,6 +1,6 @@
 id=runtime-optimization
 name=Art Optimization + CPU, VM, RAM, IO "Tune"
-version=v0.7
+version=v0.7.5
 versionCode=8
 author=ErnyTech Team (Original veez21 and warBeard_actual)
 description=DONT REMOVE
